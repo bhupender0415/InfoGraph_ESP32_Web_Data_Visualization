@@ -1,4 +1,4 @@
-## InfoGraph: ESP32 Web Data Visualization Overview
+## InfoGraph: ESP32 Web Data Visualization
 
 This project utilizes an ESP32 microcontroller to monitor temperature and humidity data and send it to a MySQL server via PHP scripts. The data is then displayed on a dynamic webpage.
 
